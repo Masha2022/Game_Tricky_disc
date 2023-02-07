@@ -116,3 +116,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _minMovingDuration: 0.8
   _maxMovingDuration: 2
+  _deathParticlesPrefab: {fileID: 668977754387144313, guid: 1e1a381e6a513004cbf6ddb15d037645, type: 3}
